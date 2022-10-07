@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico_GDIOnly.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico.Form1.resources
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico.Form2.resources
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico_GDIOnly.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico.Properties.Resources.resources
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico_GDIOnly.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\bin\Debug\ico_GDIOnly.exe
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\bin\Debug\ico_GDIOnly.pdb
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico_GDIOnly.exe
+C:\Users\ACER\source\repos\ico_GDIOnly\ico\obj\Debug\ico_GDIOnly.pdb
